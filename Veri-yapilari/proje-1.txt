@@ -6,7 +6,7 @@ Proje-1
 3. [2,6,16,18,22,27]  16 geri kalan sayılardan küçük olduğu için yer değiştirmez.
                       22 ile 18 yer değiştirir.
 
-                      Big-O gösterimi O(n) olur
+                      Big-O gösterimi O(n^2) olur
                       18 sayısı ortalarda olduğu için Average case olur.
     
 
